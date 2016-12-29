@@ -1,1 +1,0 @@
-This is the code for titanic competition on Kaggle
